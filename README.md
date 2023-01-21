@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divine Ahaka
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DIvine Ahaka
 ====================================================================================================================================
 
 My name's Divine but my friends call me KamCy. I'm web developer who has being in the programming space for just under 3 years now. My tech stack is HTML, SCSS, JavaScript, VueJS, NuxtJS and Firebase. I also love Formula 1 and I am a massive George Russell fan.
@@ -25,11 +25,10 @@ My name's Divine but my friends call me KamCy. I'm web developer who has being i
 
 * 🌍  I'm based in Lagos, NIgeria
 * ✉️  You can contact me at [kamcyahaka@gmail.com](mailto:kamcyahaka@gmail.com)
-* 🚀  I'm currently working on [a project task manager CLI/UI tool. It is still in production so no publc viewing just yet.](http://https://www.youtube.com/watch?v=xvFZjo5PgG0)
+* 🚀  I'm currently working on [a project task manager CLI/UI tool. It is still in production so no publc viewing just yet.](http://www.youtube.com/watch?v=xvFZjo5PgG0)
 * 🧠  I'm learning everything about the web
 * 🤝  I'm open to collaborating on anything Vue and web related
 * ⚡  Shazaaaaammmmm
-
 
 ### Socials
 
