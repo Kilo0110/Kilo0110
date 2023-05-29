@@ -51,6 +51,6 @@ My name's Divine but my friends call me KamCy. I'm a web developer who has being
 
 <div width="100%" align="center"><a href="https://github.com/KIlo0110/fashion-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KIlo0110&repo=fashion-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div>
 
-<div width="100%" align="center"><a href="https://github.com/KIlo0110/Wazobia-Restaurants-Vue" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KIlo0110&repo=Wazobia-Restaurants-Vue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/KIlo0110/Wazobia-Restaurants-Vue" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KIlo0110&repo=Wazobia-Restaurants-Vue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/KIlo0110/Quadratic-Equations-Solver" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KIlo0110&repo=Quadratic-Equations-Solver&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div>
